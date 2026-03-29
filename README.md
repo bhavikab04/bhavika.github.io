@@ -15,11 +15,6 @@ This portfolio was originally based on the [devfolio](https://github.com/mmacnei
 - **Built with**: Bulma CSS, Sass, Font Awesome, and Flickity
 - **License**: MIT (See LICENSE file for details)
 
-## Desktop version
-<img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-desktop.gif" />
-
-### Responsive version
-<img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-responsive.gif" height="485" />
 
 ## Setup
 
